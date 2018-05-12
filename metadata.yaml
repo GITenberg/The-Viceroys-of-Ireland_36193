@@ -1,0 +1,29 @@
+_repo: The-Viceroys-of-Ireland_36193
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Mahony, Charles Kingston
+    alias: O'Mahony, Charles K.
+    birthdate: 1884
+    gutenberg_agent_id: '38128'
+    url: http://www.gutenberg.org/2009/agents/38128
+description: ''
+gutenberg_issued: '2011-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36193'
+  lccn: a13001272
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- History'
+- !lcsh 'Ireland -- Biography'
+- !lcsh 'Ireland -- Politics and government'
+- !lcc 'DA'
+title: The Viceroys of Ireland
+url: http://www.gutenberg.org/ebooks/36193
